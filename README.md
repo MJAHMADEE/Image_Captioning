@@ -7,6 +7,6 @@ Image Captioning
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/MJAHMADEE/Image_Captioning/}},
+  howpublished = {\url{https://github.com/MJAHMADEE/Image_Captioning}},
   commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 }
